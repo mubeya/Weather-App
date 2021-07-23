@@ -38,7 +38,7 @@ h1 {
 
 .weather {
   background-color: #125d98;
-  padding: 10px 40px;
+  padding: 10px 25px;
   border-radius: 10px;
 }
 
@@ -57,7 +57,7 @@ h1 {
 .weather-week {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
   background-color: #125d98;
   border-radius: 10px;
   margin-bottom: 5px;
